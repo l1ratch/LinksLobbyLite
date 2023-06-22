@@ -1,0 +1,5 @@
+name: LinksLobbyLite
+version: '${project.version}'
+main: linkslobby.linkslobby.LinksLobby
+load: STARTUP
+authors: [ Link_play ]
